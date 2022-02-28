@@ -1,0 +1,7 @@
+To answer your question posted in the title of this topic...
+Step 1--> Right Click on Java Project, Select the option "Properties" Step 1--> Right Click on Java Project, Select the option "Properties"
+Step 2--> Select "Java Build Path" from the left side menu, make sure you are on "Source" tab, click "Add Folder" Select "Java Build Path" from the left side menu, make sure you are on "Source" tab, click "Add Folder"
+Step 3--> Click the option "Create New Folder..." available at the bottom of the window Click the option "Create New Folder..." available at the bottom of the window
+Step 4--> Enter the name of the new folder as "resources" and then click "Finish" Enter the name of the new folder as "resources" and then click "Finish"
+Step 5--> Now you'll be able to see the newly created folder "resources" under your java project, Click "Ok", again Click "Ok"
+Final Step --> Now you should be able to see the new folder "resources" under your java project
